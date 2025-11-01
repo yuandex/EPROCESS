@@ -1,0 +1,27 @@
+﻿  Building 'core' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Release\core.inf
+  Stamping [Version] section with DriverVer=11/01/2025,12.7.49.542
+  ProcessHiderCore.c
+  core.vcxproj -> C:\Users\TEST\Desktop\EPROCESS\x64\Release\core.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\TEST\Desktop\EPROCESS\x64\Release\core.sys
+  
+  Driver is 'Universal'.
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\TEST\Desktop\EPROCESS\x64\Release\core\core.cat
+  Set catalog attribute.
+  WdkVersion: 10.0.26100.0
+  Set catalog attribute.
+  WdkAssemblyVersion: 10.0.26100.4202
+  Done Adding Additional Store
+  Successfully signed: C:\Users\TEST\Desktop\EPROCESS\x64\Release\core\core.cat
+  

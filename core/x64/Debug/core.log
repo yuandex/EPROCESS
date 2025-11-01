@@ -1,0 +1,7 @@
+﻿  Building 'core' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Debug\core.inf
+  Stamping [Version] section with DriverVer=11/01/2025,12.6.19.870
+  ProcessHiderCore.c
+C:\Users\TEST\Desktop\EPROCESS\core\ProcessHiderCore.c(35,14): error C2220: 以下警告被视为错误
+C:\Users\TEST\Desktop\EPROCESS\core\ProcessHiderCore.c(35,14): warning C4189: “status”: 局部变量已初始化但不引用
+C:\Users\TEST\Desktop\EPROCESS\core\ProcessHiderCore.c(53,39): warning C4100: “pDevObj”: 未引用的形参

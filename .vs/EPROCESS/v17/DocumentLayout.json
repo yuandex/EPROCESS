@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TEST\\Desktop\\EPROCESS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{082A813A-7C71-41E5-A51A-A89A1704086E}|tset\\tset.vcxproj|C:\\Users\\TEST\\Desktop\\EPROCESS\\tset\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{082A813A-7C71-41E5-A51A-A89A1704086E}|tset\\tset.vcxproj|solutionrelative:tset\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.cpp",
+              "DocumentMoniker": "C:\\Users\\TEST\\Desktop\\EPROCESS\\tset\\test.cpp",
+              "RelativeDocumentMoniker": "tset\\test.cpp",
+              "ToolTip": "C:\\Users\\TEST\\Desktop\\EPROCESS\\tset\\test.cpp",
+              "RelativeToolTip": "tset\\test.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-01T04:19:32.924Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
